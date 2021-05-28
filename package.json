@@ -1,7 +1,7 @@
 {
   "name": "emoji",
   "version": "0.1.0",
-  "homepage": "http://elilentz.github.io/emoji-search",
+  "homepage": "http://elilentz.github.io/emoji_search",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.4.0",
